@@ -1,0 +1,1321 @@
+http://www.aiotestking.com/oracle/what-is-the-result-529/
+
+QUESTION 1
+Given:
+What is the result?
+A. 200.0 : 100.0
+B. 400.0 : 200.0
+C. 400.0 : 100.0
+D. Compilation fails.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia: C 
+
+QUESTION 2
+Given the code fragment:
+What is the result if the integer aVar is 9?
+A. Hello World!
+B. Hello Universe!
+C. Hello World
+D. Compilation fails.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia: A
+
+QUESTION 3
+Given the code fragment:
+What is the result?
+A. May 04, 2014T00:00:00.000
+B. 2014-05-04T00:00: 00. 000
+C. 5/4/14T00:00:00.000
+D. An exception is thrown at runtime.
+Correct Answer: B
+Section: (none)
+Explanation
+
+
+*Mia:D
+
+
+QUESTION 4
+Given the code fragment:
+What is the result?
+A. Sum is 600
+B. Compilation fails at line n1.
+C. Compilation fails at line n2.
+D. A ClassCastException is thrown at line n1.
+E. A ClassCastException is thrown at line n2.
+Correct Answer: E
+Section: (none)
+Explanation
+
+Mia: E
+
+
+QUESTION 5
+What is the name of the Java concept that uses access modifiers to protect variables and hide them within
+a class?
+A. Encapsulation
+B. Inheritance
+C. Abstraction
+D. Instantiation
+E. Polymorphism
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Explanation:
+Using the private modifier is the main way that an object encapsulates itself and hide data from the
+outside world.
+Reference: http://www.tutorialspoint.com/java/java_access_modifiers.htm
+
+
+Mia: A
+
+
+QUESTION 6
+Given the code fragment:
+Which two modifications, made independently, enable the code to compile?
+A. Make the method at line n1 public.
+B. Make the method at line n2 public.
+C. Make the method at line n3 public.
+D. Make the method at line n3 protected.
+E. Make the method at line n4 public.
+Correct Answer: BC
+Section: (none)
+Explanation
+Explanation/Reference:
+
+*Mia: CD
+
+
+QUESTION 7
+Given:
+And given the code fragment:
+What is the result?
+A. 4W 100 Auto
+4W 150 Manual
+B. Null 0 Auto
+4W 150 Manual
+C. Compilation fails only at line n1
+D. Compilation fails only at line n2
+E. Compilation fails at both line n1 and line n2
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia: E
+
+
+QUESTION 8
+Given the code fragment:
+Which two modifications should you make so that the code compiles successfully?
+
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+E. Option E
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia:BC
+
+
+QUESTION 9
+Given the following two classes:
+
+How should you write methods in the ElectricAccount class at line n1 so that the member variable bill is
+always equal to the value of the member variable kwh multiplied by the member variable rate?
+Any amount of electricity used by a customer (represented by an instance of the customer class) must
+contribute to the customer's bill (represented by the member variable bill) through the method
+useElectricity method. An instance of the customer class should never be able to tamper with or decrease
+the value of the member variable bill.
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia: B
+
+
+
+QUESTION 10
+Given the code fragment:
+
+What is the result?
+A. Match 1
+B. Match 2
+C. No Match
+D. A NullPointerException is thrown at runtime.
+
+Correct Answer: B
+Section: (none)
+Explanation
+
+Mia: B
+
+
+QUESTION 11
+Given:
+Which option enables the code to compile?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+MIA: CD
+
+
+QUESTION 12
+Given:
+What is the result?
+A. A B C D
+B. A C D
+C. A B C C
+D. A B D
+E. A B D C
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia: C
+
+
+QUESTION 13
+Given:
+Which code fragment should you use at line n1 to instantiate the dvd object successfully?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia: C
+
+
+QUESTION 14
+Given the code fragment:
+Which option can replace xxx to enable the code to print 135?
+A. int e = 0; e < = 4; e++
+B. int e = 0; e < 5; e + = 2
+C. int e = 1; e < = 5; e + = 1
+D. int e = 1; e < 5; e+ =2
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia: B
+
+
+
+QUESTION 15
+Which statement best describes encapsulation?
+A. Encapsulation ensures that classes can be designed so that only certain fields and methods of an
+object are accessible from other objects.
+B. Encapsulation ensures that classes can be designed so that their methods are inheritable.
+C. Encapsulation ensures that classes can be designed with some fields and methods declared as
+abstract.
+D. Encapsulation ensures that classes can be designed so that if a method has an argument MyType x,
+any subclass of MyType can be passed to that method.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia: A
+
+
+
+QUESTION 16
+Given the code fragment from three files:
+Which code fragment, when inserted at line 2, enables the code to compile?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+E. Option E
+Correct Answer: D
+Section: (none)
+Explanation
+
+Mia: E
+
+
+QUESTION 17
+Given the following class:
+And given the following main method, located in another class:
+Which three lines, when inserted independently at line n1, cause the program to print a o balance?
+A. this.amount = 0;
+B. amount = 0;
+C. acct (0) ;
+D. acct.amount = 0;
+E. acct. getAmount () = 0;
+F. acct.changeAmount(0);
+G. acct.changeAmount(-acct.amount);
+H. acct.changeAmount(-acct.getAmount());
+Correct Answer: ACD
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia: DGH
+
+
+QUESTION 18
+Given the code fragment:
+Which code fragment prints red: blue: small: medium?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia:
+
+D
+
+
+QUESTION 19
+Given the code fragment:
+What is the result?
+A. Reading Card
+Checking Card
+B. Compilation fails only at line n1.
+C. Compilation fails only at line n2.
+D. Compilation fails only at line n3.
+E. Compilation fails at both line n2 and line n3.
+
+MIA: D
+
+
+QUESTION 20
+Given the code fragment:
+Which modification enables the code to print 54321?
+A. Replace line 6 with System, out. print (--x) ;
+B. At line 1, insert x --;
+C. Replace line 6 with --x; and, at line 7, insert system, out. print (x);
+D. Replace line 12 With return (x > 0) ? false: true;
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia:B
+
+
+QUESTION 21
+Given the code fragment:
+Which modification enables the code fragment to print TrueDone?
+A. Replace line 5 With String result = "true";
+Replace line 7 with case "true":
+B. Replace line 5 with boolean opt = l;
+Replace line 7 with case 1=
+C. At line 9, remove the break statement.
+D. Remove the default section.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia: A
+
+QUESTION 22
+Given the following main method:
+What is the result?
+A. 5 4 3 2 1 0
+B. 5 4 3 2 1
+C. 4 2 1
+D. 5
+E. Nothing is printed
+
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia: D
+
+
+QUESTION 23
+Given the code fragment:
+What is the result?
+A. 100
+B. 101
+C. 102
+D. 103
+E. Compilation fails
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+MIA: E
+
+QUESTION 24
+Given:
+What is the result?
+A. 91 98 99 100 null null null
+B. 91 98 99 100 101 102 103
+C. Compilation rails.
+D. A NullPointerException is thrown at runtime.
+E. An ArraylndexOutOfBoundsException is thrown at runtime.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+
+MIA: A pero inicia con 97
+
+
+QUESTION 25
+Given the code fragment:
+Which two modifications, when made independently, enable the code to print joe:true: 100.0?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+E. Option E
+
+
+Correct Answer: D
+Section: (none)
+Explanation
+
+Mia: A,C
+
+
+QUESTION 26
+Given the code fragment:
+What is the result?
+A. [Robb, Rick, Bran]
+B. [Robb, Rick]
+C. [Robb, Bran, Rick, Bran]
+D. An exception is thrown at runtime.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+
+MIA. A. [Robb, Rick, Bran]
+
+QUESTION 27
+Given:
+What is the result?
+A. C B A
+B. C
+C. A B C
+D. Compilation fails at line n1 and line n2
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+MIA:  C. A B C
+
+
+QUESTION 28
+Given:
+What is the result?
+A. 3 4 5 6
+B. 3 4 3 6
+C. 5 4 5 6
+D. 3 6 4 6
+
+
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+mia: C. 5 4 5 6
+
+
+QUESTION 29
+Given the code fragment:
+Which code fragment, when inserted at line 3, enables the code to print 10:20?
+A. int[] array n= new int[2];
+B. int[] array;
+array = int[2];
+C. int array = new int[2];
+D. int array [2] ;
+Correct Answer: B
+Section: (none)
+
+
+mia: B en caso array = new int[2]; 
+
+
+QUESTION 30
+Given the code fragment:
+What is the result?
+A. A B C Work done
+B. A B C D Work done
+C. A Work done
+D. Compilation fails
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+mia:C. A Work done
+
+
+QUESTION 31
+Which three are advantages of the Java exception mechanism?
+A. Improves the program structure because the error handling code is separated from the normal program
+function
+B. Provides a set of standard exceptions that covers all the possible errors
+C. Improves the program structure because the programmer can choose where to handle exceptions
+D. Improves the program structure because exceptions must be handled in the method in which they
+occurred
+E. Allows the creation of new exceptions that are tailored to the particular program being created
+Correct Answer: ACD
+Section: (none)
+Explanation
+Explanation/Reference:
+Reference: http://javajee.com/introduction-to-exceptions-in-java
+
+
+mia: ACE
+
+
+
+QUESTION 32
+Given the code from the Greeting.Java file:
+Which set of commands prints Hello Duke in the console?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia> C  javac greeting.java
+        java  greeting duke
+
+QUESTION 33
+Given:
+What is the result?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+mia : b 
+
+ns= 50 s = 125
+ns= 125 s = 125
+ns= 0    s= 125
+
+
+QUESTION 34
+Given the code fragment:
+What is the result?
+A. 2 4
+B. 0 2 4 6
+C. 0 2 4
+D. Compilation fails
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+mia : C 
+
+
+QUESTION 35
+Given the code fragment:
+Assume that the system date is June 20, 2014. What is the result?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+mia: A  
+
+date1: 2014-06-20
+date2: 2014-06-20
+date3: 2014-06-20
+
+
+QUESTION 36
+Given the code fragment:
+Which code fragment, when inserted at line 9, enables the code to print true?
+A. String str2 = str1;
+B. String str2 = new String (str1);
+C. String str2 = sb1. toString ();
+D. String str2 = "Duke";
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+mia: A  
+
+
+QUESTION 37
+Given the code fragment:
+What is the result?
+A. 10 : 10
+B. 5 : 5
+C. 5 : 10
+D. Compilation fails
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference
+
+
+mia: 10 :10  A 
+
+
+QUESTION 38
+Given the code fragment:
+And given the requirements:
+If the value of the qty variable is greater than or equal to 90, discount = 0.5 If the value of the qty variable
+is between 80 and 90, discount = 0.2 Which two code fragments can be independently placed at line n1 to
+meet the requirements?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+E. Option E
+Correct Answer: D
+Section: (none)
+Explanation
+
+
+Mia : A y C 
+
+
+QUESTION 39
+Given:
+And given the commands:
+javac Test.Java
+Java Test Hello
+What is the result?
+A. Success
+B. Failure
+C. Compilation fails.
+D. An exception is thrown at runtime
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+
+Mia: B Failure 
+
+
+QUESTION 40
+Which three statements describe the object-oriented features of the Java language?
+A. Objects cannot be reused.
+B. A subclass can inherit from a superclass.
+C. Objects can share behaviors with other objects.
+D. A package must contain more than one class.
+E. Object is the root class of all other objects.
+F. A main method must be declared in every class.
+Correct Answer: BCF
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia:  B, C, E 
+
+
+QUESTION 41
+Given the following code:
+What is the output?
+A. 4
+B. 3
+C. 4
+D. 5
+E. 4
+F. 4
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+
+Mia: A,  4 5 
+
+
+QUESTION 42
+You are developing a banking module. You have developed a class named ccMask that has a maskcc
+method.
+Given the code fragment:
+You must ensure that the maskcc method returns a string that hides all digits of the credit card number
+except the four last digits (and the hyphens that separate each group of four digits).
+Which two code fragments should you use at line n1, independently, to achieve this requirement?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+MIA > B Y C 
+
+
+QUESTION 43
+Given:
+Which statement is true?
+A. Both p and s are accessible by obj.
+B. Only s is accessible by obj.
+C. Both r and s are accessible by obj.
+D. p, r, and s are accessible by obj.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+mia: B  B. Only s is accessible by obj.
+
+
+QUESTION 44
+Given:
+What is the result?
+A. Base
+DerivedA
+B. Base
+DerivedB
+C. DerivedB
+DerivedB
+D. DerivedB
+DerivedA
+E. A classcast Except ion is thrown at runtime.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia:C. DerivedB
+DerivedB
+
+
+QUESTION 45
+Given the code fragment:
+What is the result?
+A. Execution terminates in the first catch statement, and caught a RuntimeException is printed to the
+console.
+B. Execution terminates In the second catch statement, and caught an Exception is printed to the
+console.
+C. A runtime error is thrown in the thread "main".
+D. Execution completes normally, and Ready to use is printed to the console.
+E. The code fails to compile because a throws keyword is required.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/R
+
+Mia>  C. A runtime error is thrown in the thread "main".
+
+
+QUESTION 46
+Given:
+What is the result?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia:B
+
+5+2= 34
+5+2= 7
+
+
+
+QUESTION 47
+Given the code fragments:
+Which code fragment, when inserted at line n1, enables the code to print Hank?
+A. checkAge (iList, ( ) -> p. get Age ( ) > 40);
+B. checkAge(iList, Person p -> p.getAge( ) > 40);
+C. checkAge (iList, p -> p.getAge ( ) > 40);
+D. checkAge(iList, (Person p) -> { p.getAge() > 40; });
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+
+Mia: C 
+*
+
+
+
+QUESTION 48
+Given the code fragment:
+What is the result?
+A. A B C
+B. A B C D E
+C. A B D E
+D. Compilation fails.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia: C
+
+
+QUESTION 49
+Given the code fragment:
+What is the result?
+A. true true
+B. true false
+C. false false
+D. false true
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia: C. false false
+
+
+QUESTION 50
+Given the code fragment:
+Which code fragment, when inserted at line n1, enables the App class to print Equal?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+B. Option B
+
+
+QUESTION 51
+Given:
+What is the result?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+B: int sum is 30
+   double sum is 30.00 pero agrega decimales
+
+
+QUESTION 52
+Given the code fragment:
+What is the result?
+A. Element 0
+Element 1
+B. Null element 0
+Null element 1
+C. Null
+Null
+D. A NullPointerException is thrown at runtime.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia: D 
+
+QUESTION 53
+Given:
+What is the result?
+A. 10:20
+B. 0:20
+C. Compilation fails at line n1
+D. Compilation fails at line n2
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Explanation/Reference:
+Explanation/Reference:
+
+   
+Mia:D. Compilation fails at line n2
+
+QUESTION 54
+Given the definitions of the MyString class and the Test class:
+What is the result?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: C
+Section: (none)
+Explanation
+
+
+Mia: C
+
+hello java se 8
+hello p1.MyString@<<hashcode>>
+
+
+QUESTION 55
+Given the code fragment:
+Which three lines fail to compile?
+A. Line 7
+B. Line 8
+C. Line 9
+D. Line 10
+E. Line 11
+F. Line 12
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia:
+A. Line 7
+D. Line 10
+F. Line 12
+
+
+QUESTION 56
+Given:
+What is the result?
+A. int main 1
+B. Object main 1
+C. String main 1
+D. Compilation fails
+E. An exception is thrown at runtime
+Correct Answer: E
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia: C 
+
+
+QUESTION 57
+Given the code fragment:
+Which option represents the state of the num array after successful completion of the outer loop?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: D
+Section: (none)
+Explanation
+
+Mia: A 
+
+
+Explanation/Reference:
+QUESTION 58
+Given the code fragment:
+What is the result?
+A. Jesse 25
+Walter 52
+B. Compilation fails only at line n1
+C. Compilation fails only at line n2
+D. Compilation fails at both line n1 and line n2
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia: D. Compilation fails at both line n1 and line n2 
+
+QUESTION 59
+Given the following code for a Planet object:
+What is the output?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+
+Mia: C. Option C
+
+
+
+QUESTION 60
+You are asked to develop a program for a shopping application, and you are given the following
+information:
+The application must contain the classes Toy, EduToy, and consToy. The Toy class is the superclass
+of the other two classes.
+The int caicuiatePrice (Toy t) method calculates the price of a toy. The void printToy (Toy t) method
+prints the details of a toy.
+Which definition of the Toy class adds a valid layer of abstraction to the class hierarchy?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia : A 
+
+
+
+QUESTION 61
+Given the following code:
+What are the values of each element in intArr after this code has executed?
+A. 15, 60, 45, 90, 75
+B. 15, 90, 45, 90, 75
+C. 15, 30, 75, 60, 90
+D. 15, 30, 90, 60, 90
+E. 15, 4, 45, 60, 90
+
+Mia:C. 15, 30, 75, 60, 90
+
+
+QUESTION 62
+Given the following array:
+Which two code fragments, independently, print each element in this array?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+E. Option E
+F. Option F
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+B. Option B
+E. Option E
+
+
+QUESTION 63
+Given the content of three files:
+Which statement is true?
+Which statement is true?
+A. Only the A.Java file compiles successfully.
+B. Only the B.java file compiles successfully.
+C. Only the C.java file compiles successfully.
+D. The A.Java and B.java files compile successfully.
+E. The B.java and C.java files compile successfully.
+F. The A.Java and C.java files compile successfully.
+Correct Answer: E
+Section: (none)
+Explanation
+Explanation/Reference:
+
+A. Only the A.Java file compiles successfully.
+
+
+QUESTION 64
+Given the code fragment:
+int[] array = {I, 2, 3, 4, 5};
+And given the requirements:
+1. Process all the elements of the array in the order of entry.
+2. Process all the elements of the array in the reverse order of entry.
+3. Process alternating elements of the array in the order of entry.
+Which two statements are true?
+A. Requirements 1, 2, and 3 can be implemented by using the enhanced for loop.
+B. Requirements 1, 2, and 3 can be implemented by using the standard for loop.
+C. Requirements 2 and 3 CANNOT be implemented by using the standard for loop.
+D. Requirement 1 can be implemented by using the enhanced for loop.
+E. Requirement 3 CANNOT be implemented by using either the enhanced for loop or the standard for
+loop.
+Correct Answer: B
+Section: (none)
+Explanation
+
+Mia:
+B. Requirements 1, 2, and 3 can be implemented by using the standard for loop.
+D. Requirement 1 can be implemented by using the enhanced for loop.
+
+
+
+
+QUESTION 65
+Given:
+What is the result?
+A. 400 200
+B. 200 200
+C. 400 400
+D. Compilation fails.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia:
+
+A. 400 200
+
+
+
+QUESTION 66
+Given the following class declarations:
+public abstract class Animal
+public interface Hunter
+public class Cat extends Animal implements Hunter
+public class Tiger extends Cat
+Which answer fails to compile?
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+E. Option E
+Correct Answer: E
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia:D. Option D
+
+un tigre no es un gato
+
+
+
+QUESTION 67
+Which statement is true about Java byte code?
+A. It can run on any platform.
+B. It can run on any platform only if it was compiled for that platform.
+C. It can run on any platform that has the Java Runtime Environment.
+D. It can run on any platform that has a Java compiler.
+E. It can run on any platform only if that platform has both the Java Runtime Environment and a Java
+compiler.
+Correct Answer: D
+Section: (none)
+
+
+Mia:D. It can run on any platform that has a Java compiler.
+
+
+
+QUESTION 68
+Given:
+How many MarkList instances are created in memory at runtime?
+A. 1
+B. 2
+C. 3
+D. 4
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+respuesta:A. 1
+
+
+QUESTION 69
+Given:
+What is the result?
+A. Area is 6.0
+B. Area is 3.0
+C. Compilation fails at line n1
+D. Compilation fails at line n2.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+
+D. Compilation fails at line n2.
+
+Variables locales tienen que ser inicializadas
+
+
+
+QUESTION 70
+Given the code fragment:
+Which three code fragments can be independently inserted at line nl to enable the code to print one?
+A. Byte x = 1;
+B. short x = 1;
+C. String x = "1";
+D. Long x = 1;
+E. Double x = 1;
+F. Integer x = new Integer ("1");
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+
+Mia:
+A. Byte x = 1;
+B. short x = 1;
+F. Integer x = new Integer ("1");
+
+
+QUESTION 71
+Given:
+What is the result?
+A. True false
+B. True null
+C. Compilation fails
+D. A NullPointerException is thrown at runtime
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia:A. True false
+
+
+QUESTION 72
+Given the following code for the classes MyException and Test:
+What is the result?
+A. A
+B. B
+C. Either A or B
+D. A B
+E. A compile time error occurs at line n1
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+Mia:B. B
+
+
+QUESTION 73
+Given:
+What is the result?
+A. myStr: 9009, myNum: 9009
+B. myStr: 7007, myNum: 7007
+C. myStr: 7007, myNum: 9009
+D. Compilation fails
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+
+Mia>C. myStr: 7007, myNum: 9009
+
+QUESTION 74
+
+Which two are benefits of polymorphism?
+A. Faster code at runtime
+B. More efficient code at runtime
+C. More dynamic code at runtime
+D. More flexible and reusable code
+E. Code that is protected from extension by other classes
+
+
+Correct Answer: BD
+Section: (none)
+Explanation
+
+MIA> C D 
+
+
+QUESTION 75
+Given the code fragment:
+What is the result?
+A. 1:2:3:4:5:
+B. 1:2:3:
+C. Compilation fails.
+D. An ArrayoutofBoundsException is thrown at runtime.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+
+mIA:A. 1:2:3:4:5:
+
+QUESTION 76
+Given:
+What is the result?
+A. true:true
+B. true:false
+C. false:true
+D. false:false
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+
+C. false:true
+
+QUESTION 77
+Given the following classes:
+Which two options fail to compile when placed at line n1 of the main method?
+A. employee.salary = 50_000;
+B. director.salary = 80_000;
+C. employee.budget = 200_000;
+D. manager.budget = 1_000_000;
+E. manager.stockOption = 500;
+F. director.stockOptions = 1_000;
+Correct Answer: CD
+Section: (none)
+Explanation
+Explanation/Reference:
+
+
+E. manager.stockOption = 500;
+C. employee.budget = 200_000;
+
+
